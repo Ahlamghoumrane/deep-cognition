@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/deep-cognition.git/static/js/main.987ab181.js",
+    "static/media/image3.png": "/deep-cognition.git/static/media/image3.28e63932b1d5586c3241.png",
+    "static/media/image 1.png": "/deep-cognition.git/static/media/image 1.b346b6e63bfb6ac22ca6.png",
+    "static/media/image2.png": "/deep-cognition.git/static/media/image2.8c336110991484d2aa1b.png",
+    "static/media/logo.png": "/deep-cognition.git/static/media/logo.9b9db46933a1ade828fd.png",
+    "index.html": "/deep-cognition.git/index.html",
+    "main.987ab181.js.map": "/deep-cognition.git/static/js/main.987ab181.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.987ab181.js"
+  ]
+}
